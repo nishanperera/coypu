@@ -1,3 +1,9 @@
+# PLEASE NOTE:
+
+The master repo for Copyu has been moved to http://github.com/coypu/coypu. I will not be maintaining this fork going forward, but as most of the links out there to coypu point here, suggest we leave this up for a while.
+
+Also, I have recently done some drastic rewriting of the coypu history to remove a bunch of binaries that should never have been in there. So for this reason if you want to contribute and do happen to have an old clone you should delete it and start again, cloning from coypu/coypu.
+
 # Coypu
 
 Coypu supports browser automation in .Net to help make tests readable, robust, fast to write and less tightly coupled to the UI. If your tests are littered with sleeps, retries, complex XPath expressions and IDs dug out of the source with FireBug then Coypu might help.
