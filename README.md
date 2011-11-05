@@ -1,6 +1,6 @@
 # PLEASE NOTE:
 
-The master repo for Copyu has been moved to http://github.com/coypu/coypu. I will not be maintaining this fork going forward, but as most of the links out there to coypu point here, suggest we leave this up for a while.
+The master repo for Coypu has been moved to http://github.com/coypu/coypu. I will not be maintaining the ITV/Coypu repo going forward, but as most of the links out there to coypu point here I have left this up for now as a fork of the moved repo.
 
 Also, I have recently done some drastic rewriting of the coypu history to remove a bunch of binaries that should never have been in there. So for this reason if you want to contribute and do happen to have an old clone you should delete it and start again, cloning from coypu/coypu.
 
